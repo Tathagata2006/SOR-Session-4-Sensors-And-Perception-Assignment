@@ -191,5 +191,3 @@ Enter a target object (for example: person, bottle, chair) when prompted.
 ---
 
 
-```
-```
