@@ -190,16 +190,6 @@ Enter a target object (for example: person, bottle, chair) when prompted.
 
 ---
 
-# Deliverables Included
-
-* Source Code
-* Gazebo Simulation
-* Robot Description Files
-* EKF Configuration
-* OpenCV Perception Node
-* YOLOv8 Autonomous Object-Seeking Node
-* Demonstration Video
-* Short Report
 
 ```
 ```
